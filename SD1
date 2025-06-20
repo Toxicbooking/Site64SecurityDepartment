@@ -1,0 +1,7 @@
+echo "# Site64SecurityDepartment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Toxicbooking/Site64SecurityDepartment.git
+git push -u origin main
